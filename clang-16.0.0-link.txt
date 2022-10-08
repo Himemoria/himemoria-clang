@@ -1,1 +1,1 @@
-https://github.com/Himemoria/himemoria-clang/releases/download/Himemoria-Clang--20221007-release/Himemoria-Clang--20221007.tar.gz
+https://github.com/Himemoria/himemoria-clang/releases/download/Himemoria-Clang--20221009-release/Himemoria-Clang--20221009.tar.gz
